@@ -1,0 +1,753 @@
+@media only screen and (max-width : 1060px) {
+    .wrapper {
+        width: 1060px;
+    }
+    
+    .all {
+        width: 930px;
+        height: 580px;
+    }
+
+    .myfoto {
+        width: 235px;
+        height: 235px;
+        margin: 40px 20px 0px 50px;
+    }
+
+    .name {
+        font-size: 34px;
+    }
+
+    .name:after {  
+        content: "";
+        display: block;
+        width: 270px;
+        height: 5px;
+        margin: 0px 50px 0px 333px;
+    
+        background-color: #fff;
+    }
+
+    .birthday {
+        margin: -33px 0px 0px 100px;
+    }
+
+    .tort {
+        float: left;
+        width: 28px;
+        height: 30px;
+    }
+    
+    #birthday {
+        font-size: 19px;
+        padding-top: 5px;
+        
+    }
+
+    .city {
+        margin: -15px 0px 0px 80px;
+    }
+
+    .location {
+        float: left;
+        width: 28px;
+        height: 26px;
+    }
+    
+    #city {
+        font-size: 19px;
+    }
+
+    .network {
+        margin-top: 110px;
+    }
+    
+    #networktext {
+        font-size: 34px;
+        margin: 5px 10px 0px 75px;
+        text-align: center;
+    }
+
+    .instagram {
+        width: 88px;
+        height: 88px;
+        margin: 10px 0px 0px 240px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .facebook {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .vk {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 60px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .telegram {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 5px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .twitter {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 240px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .gmail {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .spotify {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 60px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .github {
+        width: 88px;
+        height: 88px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .textend {
+        font-size: 11px;
+        margin: 20px 0px 0px 870px;
+    }
+}    
+
+@media only screen and (max-width : 770px) {
+    .wrapper {
+        width: 770px;
+    }
+    
+    .all {
+        width: 680px;
+        height: 580px;
+    }
+
+    .myfoto {
+        width: 235px;
+        height: 235px;
+        margin: 40px 20px 0px 50px;
+    }
+
+    .name {
+        font-size: 32px;
+    }
+
+    .name:after {  
+        content: "";
+        display: block;
+        width: 253px;
+        height: 5px;
+        margin: 0px 50px 0px 330px;
+    
+        background-color: #fff;
+    }
+
+    .birthday {
+        margin: -33px 0px 0px 100px;
+    }
+
+    .tort {
+        float: left;
+        width: 27px;
+        height: 29px;
+    }
+    
+    #birthday {
+        font-size: 17px;
+        padding-top: 5px;
+        
+    }
+
+    .city {
+        margin: -15px 0px 0px 80px;
+    }
+
+    .location {
+        float: left;
+        width: 27px;
+        height: 25px;
+    }
+    
+    #city {
+        font-size: 17px;
+    }
+
+    .network {
+        margin-top: 130px;
+    }
+    
+    #networktext {
+        font-size: 32px;
+        margin: 5px 10px 0px 75px;
+        text-align: center;
+    }
+
+    .instagram {
+        width: 85px;
+        height: 85px;
+        margin: 10px 0px 0px 120px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .facebook {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .vk {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 60px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .telegram {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 5px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .twitter {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 120px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .gmail {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .spotify {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 60px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .github {
+        width: 85px;
+        height: 85px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .textend {
+        font-size: 11px;
+        margin: 20px 0px 0px 620px;
+    }
+}    
+
+@media only screen and (max-width : 450px) {
+    .wrapper {
+        width: 410px;
+    }
+    
+    .all {
+        width: 325px;
+        height: 773px;
+    }
+
+    .myfoto {
+        width: 170px;
+        height: 170px;
+        margin: 15px 10px 0px 70px;
+        border: 6px solid #ffffff;
+        border-radius: 25px;
+        
+    }
+
+    .name {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .name:after {  
+        content: "";
+        display: block;
+        width: 205px;
+        height: 4px;
+        margin: 0px 50px 0px 37px;
+    
+        background-color: #fff;
+    }
+
+    .birthday {
+        margin: -33px 0px 0px 100px;
+    }
+
+    .tort {
+        float: left;
+        width: 20px;
+        height: 23px;
+    }
+    
+    #birthday {
+        font-size: 17px;
+        padding-top: 5px;
+        
+    }
+
+    .city {
+        margin: -15px 0px 0px 80px;
+    }
+
+    .location {
+        float: left;
+        width: 20px;
+        height: 20px;
+    }
+    
+    #city {
+        font-size: 17px;
+    }
+
+    .network {
+        margin-top: 20px;
+    }
+    
+    #networktext {
+        font-size: 23px;
+        margin: 5px 67px 0px 75px;
+        
+    }
+
+    .instagram {
+        width: 80px;
+        height: 80px;
+        margin: 10px 0px 0px 63px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .facebook {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .vk {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 63px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .telegram {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 5px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .twitter {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 63px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .gmail {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .spotify {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 63px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .github {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .textend {
+        font-size: 11px;
+        margin: 15px 0px 0px 260px;
+    }
+}
+
+
+@media only screen and (max-width : 385px) {
+    .wrapper {
+        width: 375px;
+    }
+    
+    .all {
+        width: 280px;
+        height: 826px;
+    }
+
+    .myfoto {
+        width: 150px;
+        height: 150px;
+        margin: 15px 10px 0px 60px;
+        border: 6px solid #ffffff;
+        border-radius: 25px;
+        
+    }
+
+    .name {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .name:after {  
+        content: "";
+        display: block;
+        width: 40px;
+        height: 4px;
+        margin: 0px 50px 0px 98px;
+    
+        background-color: #fff;
+    }
+
+    .birthday {
+        margin: -33px 0px 0px 83px;
+    }
+
+    .tort {
+        float: left;
+        width: 20px;
+        height: 23px;
+    }
+    
+    #birthday {
+        font-size: 17px;
+        padding-top: 5px;
+        
+    }
+
+    .city {
+        margin: -15px 0px 0px 68px;
+    }
+
+    .location {
+        float: left;
+        width: 20px;
+        height: 20px;
+    }
+    
+    #city {
+        font-size: 17px;
+    }
+
+    .network {
+        margin-top: 20px;
+    }
+    
+    #networktext {
+        font-size: 23px;
+        margin: 5px 67px 0px 75px;
+        
+    }
+
+    .instagram {
+        width: 80px;
+        height: 80px;
+        margin: 10px 0px 0px 38px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .facebook {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .vk {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 38px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .telegram {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 5px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .twitter {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 38px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .gmail {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .spotify {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 38px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .github {
+        width: 80px;
+        height: 80px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .textend {
+        font-size: 11px;
+        margin: 10px 0px 0px 230px;
+    }
+}
+
+@media only screen and (max-width : 350px) {
+    .wrapper {
+        width: 320px;
+    }
+    
+    .all {
+        width: 225px;
+        height: 650px;
+    }
+
+    .myfoto {
+        width: 140px;
+        height: 140px;
+        margin: 15px 10px 0px 37px;
+        border: 6px solid #ffffff;
+        border-radius: 25px;
+        
+    }
+
+    .name {
+        font-size: 18px;
+        text-align: center;
+        /*margin: 5px 10px 0px 6px;*/
+    }
+
+    .name:after {  
+        content: "";
+        display: block;
+        width: 37px;
+        height: 3px;
+        margin: 0px 50px 0px 70px;  
+        background-color: #fff;
+    }
+
+    .birthday {
+        margin: -30px 0px 0px 59px;
+    }
+
+    .tort {
+        float: left;
+        width: 20px;
+        height: 23px;
+    }
+    
+    #birthday {
+        font-size: 15px;
+        padding-top: 5px;
+        
+    }
+
+    .city {
+        margin: -15px 0px 0px 43px;
+    }
+
+    .location {
+        float: left;
+        width: 20px;
+        height: 20px;
+    }
+    
+    #city {
+        font-size: 15px;
+    }
+
+    .network {
+        margin-top: 20px;
+    }
+    
+    #networktext {
+        font-size: 18px;
+        margin: 5px 10px 0px 25px;
+    }
+
+    .instagram {
+        width: 50px;
+        height: 50px;
+        margin: 10px 0px 0px 40px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .facebook {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .vk {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 40px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .telegram {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 5px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .twitter {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 40px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .gmail {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .spotify {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 40px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .github {
+        width: 50px;
+        height: 50px;
+        margin: 0px 0px 0px 20px;
+        background-color: #ffffff;
+        border: 6px solid #ffffff;
+        border-radius: 20px;
+    }
+
+    .textend {
+        font-size: 11px;
+        margin: 20px 0px 0px 165px;
+    }
+
+}
+

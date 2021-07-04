@@ -1,0 +1,210 @@
+body {
+    /*margin: 0;*/
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 15px;
+    line-height: 1.6;
+    color: #FFFFF1;
+
+    background-color: #2B2B2B;
+}
+
+.all {
+    margin: 10px 40px 0px 40px;
+    background: #3B3B3B;
+}
+
+/*
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+hr {
+    display: block;
+    width: 100%;
+    height: 1px;
+    margin: 40px 0;
+
+    border: 0;
+    background-color: #e5e5e5;
+}
+*/
+
+/* Page */
+/*.page {
+    overflow: hidden;
+}
+*/
+
+/* Container */
+/*.container {
+    width: 100%;
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+*/
+.myfoto {
+    float: left;
+    margin: 35px 50px 0px 130px;
+}
+
+.name {
+    font-size: 40px;
+    padding: 25px;
+}
+
+.name:after {  
+    content: "";
+    display: block;
+    width: 349px;
+    height: 4px;
+    margin: 0px 50px 0px 468px;
+
+    background-color: #fff;
+}
+
+.birthday {
+    margin: -30px 0px 0px 0px;
+}
+
+.tort {
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+
+#birthday {
+    padding-top: 5px;
+}
+
+.location {
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+
+/*#city {
+    font-size: 18px;
+}*/
+
+.network {
+    margin-top: 130px;
+}
+
+#networktext {
+    font-size: 40px;
+    margin: 35px 50px 0px 450px;
+}
+
+.instagram {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 345px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.facebook {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 8px solid #ffffff;
+    border-radius: 25px;
+}
+
+.vk {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.telegram {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 4px solid #ffffff;
+    border-radius: 25px;
+}
+
+.twitter {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 345px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.gmail {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.spotify {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.github {
+    width: 95px;
+    height: 95px;
+    margin: 0px 0px 0px 30px;
+    background-color: #ffffff;
+    border: 6px solid #ffffff;
+    border-radius: 25px;
+}
+
+.end:before {  
+    content: "";
+    display: block;
+    
+    height: 20px;
+    margin: 0px 0px 20px 0px;
+
+    background-color: #3B3B3B;
+}
+
+.end {
+    height: 20px;
+    
+}
+
+.end:after {  
+    content: "";
+    display: block;
+    
+    height: 20px;
+
+    background-color: #2B2B2B;
+}
+
+.textend {
+    font-size: 15px;
+    margin: 20px 0px 0px 1150px;
+}
+
+#endtext {
+    color: white;
+    text-decoration: none;
+}
