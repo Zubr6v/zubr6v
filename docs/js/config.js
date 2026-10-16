@@ -4,7 +4,7 @@
 
    Email: можна вказати "mailto:name@email.com" або просто "name@email.com".
    Новий проєкт: скопіюйте об’єкт у масиві projects і заповніть title, description, links.
-   Іконки: "receipt", "plus". */
+   Іконки: "receipt", "radio", "plus". */
 window.SITE_CONFIG = {
   social: [
     {
@@ -40,11 +40,13 @@ window.SITE_CONFIG = {
       ]
     },
     {
-      title: "Наступний проєкт",
-      description: "Тут з’явиться наступний проєкт.",
-      icon: "plus",
-      placeholder: true,
-      links: []
+      title: "SoundRent",
+      description: "Гнучка оренда колонок Electro-Voice, сабвуферів і мікрофона. Комплекти під бюджет, доставка з Новояворівська, комутація в ціні.",
+      icon: "radio",
+      placeholder: false,
+      links: [
+        { label: "Відкрити сайт", href: "https://soundrent.173.242.55.96.sslip.io/" }
+      ]
     }
   ]
 };
