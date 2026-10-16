@@ -45,8 +45,16 @@ window.SITE_CONFIG = {
       icon: "radio",
       placeholder: false,
       links: [
-        { label: "Відкрити сайт", href: "https://soundrent.173.242.55.96.sslip.io/" }
+        { label: "Відкрити сайт", href: "https://soundrent.173.242.55.96.sslip.io/" },
+        { label: "Відкрити бота", href: "https://t.me/Sound_Rent_bot" }
       ]
+    },
+    {
+      title: "Наступний проєкт",
+      description: "Тут з’явиться наступний проєкт.",
+      icon: "plus",
+      placeholder: true,
+      links: []
     }
   ]
 };
